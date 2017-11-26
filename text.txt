@@ -1,0 +1,11 @@
+U need to have Curl installed on server 
+And for sure to have the PHP compiler .
+
+we have a new update with full brute force of multi types.
+multi port scanning and reporting.
+
+linux/ windows multi threads .
+
+
+good luck,,
+Cold z3ro, Htlover
